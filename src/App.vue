@@ -4,7 +4,7 @@
       <router-link to="/personnes" class="navbar-brand">Front SpringBoot App</router-link>
       <div class="navbar-nav mr-auto">
         <li class="nav-item">
-          <router-link to="/personnes" class="nav-link">Personnes</router-link>
+          <router-link to="/personnes" class="nav-link">Listes des personnes</router-link>
         </li>
         <li class="nav-item">
           <router-link to="/ajouter-personne" class="nav-link">Ajouter</router-link>
